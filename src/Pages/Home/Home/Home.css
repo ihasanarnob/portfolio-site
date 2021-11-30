@@ -1,0 +1,15 @@
+.banner {
+  position: relative;
+  background: url(../../../Images/bg-portfolio.jpg) no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 90vh;
+}
+.main-info {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: #322d2c;
+}
